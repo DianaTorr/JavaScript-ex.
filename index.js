@@ -1,7 +1,7 @@
-console.log ("Hello World!");
-
-
-
 var lives;
-lives = 3;
-console.log(lives);
+lives=2;
+ 
+ var score;
+ score=3;
+
+ chairs= lives + score; console.log(lives);
