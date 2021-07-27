@@ -1,7 +1,7 @@
 main();
 function main(){
 runningCalculator();
-var playAgain = prompt ("\n would you like to play the game again Y/N?");
+var playAgain = prompt ("\n Would you like to play the game again Y/N?");
 
 if(playAgain == "Y")
 {
